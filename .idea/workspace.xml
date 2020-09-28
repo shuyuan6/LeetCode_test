@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afefb4ec-2479-4898-a6c6-b33b6e1234a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hiTvID4bVOBY7uUtpUQ5XgDLCd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.FileSystem">
+    <configuration name="Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2" />
+      <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileSystem" />
+      <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordSearch" />
+      <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSearchWithTrie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordSearchWithTrie" />
+      <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileSystem" />
+        <item itemvalue="Application.Assignment2" />
+        <item itemvalue="Application.WordSearchWithTrie" />
+        <item itemvalue="Application.WordSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afefb4ec-2479-4898-a6c6-b33b6e1234a2" name="Default Changelist" comment="" />
+      <created>1600493141438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600493141438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="590" key="GridCell.Tab.0.bottom" timestamp="1601276497536">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="590" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1601276497536" />
+    <state width="2518" height="590" key="GridCell.Tab.0.center" timestamp="1601276497535">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="590" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1601276497535" />
+    <state width="2518" height="590" key="GridCell.Tab.0.left" timestamp="1601276497534">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="590" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1601276497534" />
+    <state width="2518" height="590" key="GridCell.Tab.0.right" timestamp="1601276497535">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="590" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1601276497535" />
+  </component>
+</project>
